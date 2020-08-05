@@ -6,6 +6,10 @@
 - I like to spend my spare time with family, workout and gaming.
 
 
+### More from me
+- A WIP portfolio with WebGL projects [website]!
+- 
+
 <br />
 <br />
 
