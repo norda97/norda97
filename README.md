@@ -8,7 +8,6 @@
 
 ### More from me
 - A WIP portfolio with WebGL projects [website]!
-- 
 
 <br />
 <br />
